@@ -1,4 +1,4 @@
-## Hi there! I'm a;
+## Hi there! I'm a:
 
 1. Machine Learning enthusiast
 2. Ethical Hacking enthusiast
